@@ -10,7 +10,7 @@ public class EgCollection {
 		//List<String> list =new ArrayList<String>();
 		ArrayList<Integer> arrlist=new ArrayList<Integer>();
 		//newchangein git
-	
+	//new edit for pull
 
 	arrlist.add(123);
 	arrlist.add(123);
